@@ -62,15 +62,7 @@ El usuario puede agregar países, crear nuevas categorías de especies y descarg
 
 ---
 
-## 📸 Vista previa
 
-*(Aquí puedes añadir una captura del mapa cuando tengas una generada, por ejemplo “screenshot.png”)*
-
-```r
-![Vista previa del mapa](screenshot.png)
-```
-
----
 
 ## 👨‍🔬 Autor
 
